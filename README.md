@@ -1,9 +1,4 @@
 <?php
-ob_start();
-error_reporting(20);
-date_default_timezone_set("Asia/Tashkent");
-
-
 define("API_KEY","8238009802:AAHgNFa1EBQfboYKcCU80Cnaoc0QJZqmkIk");
 $administrator = "7255472205";
 
